@@ -576,7 +576,7 @@ padding-bottom: 5rem;
     border-right: none;
 }
 }
-@media only screen and (max-width: 1022px) {
+@media only screen(min-width:600px) and (max-width: 1022px) {
     .bg h1 {
         padding-top: 410px;
         padding-right: 50px;
@@ -599,5 +599,5 @@ padding-bottom: 5rem;
 .About_Image {
         color: #000;
         padding-top: 0px;
-        padding-left: 10px!important;
+        padding-left: 0px!important;
     }}
