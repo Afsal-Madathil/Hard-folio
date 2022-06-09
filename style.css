@@ -216,7 +216,7 @@ h2.First_title {
 }
 
 .About_Image img {
-    width: 100%;
+    width: 100%!important;
     height: auto;
 }
 
@@ -554,7 +554,7 @@ padding-bottom: 5rem;
         
     }
     .About_Image img {
-    width: 100%;
+    width: 100%!important;
     
 }
     .Contact_image img {
@@ -602,6 +602,6 @@ padding-bottom: 5rem;
         color: black;
     }
 .About_Image img {
-    width: 100%;
+    width: 100%!important;
     
 }}
