@@ -551,7 +551,12 @@ padding-bottom: 5rem;
         color: #000;
         padding-top: 0px;
         padding-left: 10px!important;
+        
     }
+    .About_Image img {
+    width: 100%;
+    
+}
     .Contact_image img {
         padding-top: 2rem;
         padding-bottom: 2rem;
@@ -596,8 +601,7 @@ padding-bottom: 5rem;
     .bg h3 span {
         color: black;
     }
-.About_Image {
-        color: #000;
-        padding-top: 0px;
-        padding-left: 0px!important;
-    }}
+.About_Image img {
+    width: 100%;
+    
+}}
