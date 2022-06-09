@@ -577,6 +577,10 @@ padding-bottom: 5rem;
     .Contact-img {
     border-right: none;
 }
+    .Contact_Form .form-group {
+    
+    margin-left: 51px;
+}
 }
 @media only screen(min-width:600px) and (max-width: 1022px) {
     .bg h1 {
