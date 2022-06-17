@@ -117,7 +117,7 @@ a.nav-link{
     overflow: visible;
     display: block;
     color: #fff;
-    transition: width 2s;
+    transition: width 0.2s;
 }
 
 .home,
